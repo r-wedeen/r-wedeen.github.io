@@ -56,6 +56,14 @@ $dark-mode-light-gray: #bbbbbb;
     color: $dark-mode-heading-color;
   }
 
+  .posts-container h1 a {
+    color: $dark-mode-heading-color;
+  }
+
+  article {
+    color: $dark-mode-body-color;
+  }
+
   .header-subtitle,
   .post-date,
   .footer,
@@ -64,6 +72,11 @@ $dark-mode-light-gray: #bbbbbb;
   .menu-content a,
   .social-icons a {
     color: $dark-mode-light-gray;
+  }
+
+  .pagination-button {
+    color: $dark-mode-light-gray;
+    border: 1px solid #555;
   }
 
   blockquote {
@@ -75,14 +88,13 @@ $dark-mode-light-gray: #bbbbbb;
     border: 1px solid #555;
   }
 
-  .pagination-button {
-    color: $dark-mode-light-gray;
-    border: 1px solid #555;
-  }
-
   pre,
   code {
     background-color: $dark-mode-code-background;
+  }
+
+  .posts-container p a {
+    color: #89cff0;
   }
 }
 
