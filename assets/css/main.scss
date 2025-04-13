@@ -35,6 +35,8 @@ $dark-mode-body-color: #e0e0e0;
 $dark-mode-background: #1a1a1a;
 $dark-mode-link-color: #ffffff;
 $dark-mode-code-background: #2d2d2d;
+$dark-mode-heading-color: #f0f0f0;
+$dark-mode-light-gray: #bbbbbb;
 
 @media (prefers-color-scheme: dark) {
   body {
@@ -42,8 +44,40 @@ $dark-mode-code-background: #2d2d2d;
     color: $dark-mode-body-color;
   }
 
+  h1, h2, h3, h4, h5, h6 {
+    color: $dark-mode-heading-color;
+  }
+
   a {
     color: $dark-mode-link-color;
+  }
+
+  .header-title a {
+    color: $dark-mode-heading-color;
+  }
+
+  .header-subtitle,
+  .post-date,
+  .footer,
+  .footer a,
+  .footer-description,
+  .menu-content a,
+  .social-icons a {
+    color: $dark-mode-light-gray;
+  }
+
+  blockquote {
+    color: $dark-mode-light-gray;
+    border-left: 0.25em solid #555;
+  }
+
+  table, th, td {
+    border: 1px solid #555;
+  }
+
+  .pagination-button {
+    color: $dark-mode-light-gray;
+    border: 1px solid #555;
   }
 
   pre,

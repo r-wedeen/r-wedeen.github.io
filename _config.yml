@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'My Ideas'
-description:	       'in mathematics, physics, AI, and more'
+description:	       'in mathematics, physics, and computation'
 author:              'Richard Wedeen'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
