@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Richard Wedeen
+title: About
 permalink: /about
 ---
 
-I am trained as a mathematician and I think about whatever interests me. If what I write also interests you, feel free to [email me](rwedeen.math@gmail.com).
+This is a place for me to share my ideas with whoever is interested.
