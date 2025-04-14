@@ -1,19 +1,19 @@
 body {
-    background-color: #121212;
-    color: #e0e0e0;
+    background-color: #2d2d2d;
+    color: #ccc;
   }
 
 /* Links */
 a {
-    color: #bb86fc;
+    color: #ccc;
 }
 a:hover {
-    color: #3700b3;
+    color: #375989;
 }
 
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
+    color: #ccc;
 }
 
 /* Code */
