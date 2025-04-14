@@ -32,3 +32,9 @@ h1, h2, h3, h4, h5, h6 {
 .highlight .s { color: #ce9178; } /* String */
 .highlight .mi { color: #b5cea8; } /* Integer */
 .highlight .mf { color: #b5cea8; } /* Float */
+
+/* Container */
+.container {
+    width: 80%;
+    max-width: 1000px; /* Prevents it from getting too wide on large screens */
+}
