@@ -63,26 +63,3 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
-
-@media (prefers-color-scheme: dark) {
-  .highlight {
-    background-color: #2d2d2d;
-  }
-  .highlight .hll { background-color: #373737; }
-  .highlight .c { color: #999; } /* Comment */
-  .highlight .err { color: #f2777a; background-color: #373737 } /* Error */
-  .highlight .k { color: #6196cc; } /* Keyword */
-  .highlight .o { color: #f2f2f2 } /* Operator */
-  .highlight .cm { color: #999; font-style: italic } /* Comment.Multiline */
-  .highlight .cp { color: #999 } /* Comment.Preproc */
-  .highlight .c1 { color: #999; } /* Comment.Single */
-  .highlight .cs { color: #999; } /* Comment.Special */
-  .highlight .gd { color: #f2777a; } /* Generic.Deleted */
-  .highlight .gh { color: #f2f2f2; } /* Generic.Heading */
-  .highlight .gi { color: #99cc99; } /* Generic.Inserted */
-  .highlight .gp { color: #999; } /* Generic.Prompt */
-  .highlight .gs { color: #f2f2f2; } /* Generic.Strong */
-  .highlight .s { color: #99cc99 } /* Literal.String */
-  .highlight .nt { color: #6196cc; } /* Name.Tag */
-  .highlight .nv { color: #f2777a } /* Name.Variable */
-}
