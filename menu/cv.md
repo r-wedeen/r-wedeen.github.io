@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Richard Wedeen
+title: CV
 permalink: /cv
 ---
 
