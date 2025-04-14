@@ -20,3 +20,5 @@ pagination:
   previous_page: 'Older'
 
 post_date_prefix: 'Written on'
+
+related_posts: "Next Post:"
