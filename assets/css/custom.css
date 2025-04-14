@@ -1,0 +1,31 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+/* Links */
+a {
+    color: #bb86fc;
+}
+a:hover {
+    color: #3700b3;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+/* Code */
+.highlight {
+    background-color: #1e1e1e;
+}
+.highlight .c { color: #6a9955; } /* Comment */
+.highlight .err { color: #f44747; } /* Error */
+.highlight .k { color: #c678dd; } /* Keyword */
+.highlight .o { color: #56b6c2; } /* Operator */
+.highlight .p { color: #d4d4d4; } /* Punctuation */
+.highlight .n { color: #d4d4d4; } /* Name */
+.highlight .s { color: #ce9178; } /* String */
+.highlight .mi { color: #b5cea8; } /* Integer */
+.highlight .mf { color: #b5cea8; } /* Float */
